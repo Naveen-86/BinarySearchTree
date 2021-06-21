@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.BinarySearchTreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-21T09:16:47" hostname="DESKTOP-0M348LP" time="0.045">
+<testsuite name="com.bridgelabz.BinarySearchTreeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-21T09:23:30" hostname="DESKTOP-0M348LP" time="0.084">
   <properties/>
-  <testcase name="givenThreeNumbers_whenAddedToTree_ShouldReturnSizeThree()" classname="com.bridgelabz.BinarySearchTreeTest" time="0.043"/>
-  <testcase name="given3NumbersWhenAddedToBinaryTreeShouldReturnSizeThree()" classname="com.bridgelabz.BinarySearchTreeTest" time="0.001"/>
+  <testcase name="GivenMultipltNumbers_whenAddedToTree_ShouldReturnSize()" classname="com.bridgelabz.BinarySearchTreeTest" time="0.042"/>
+  <testcase name="GivenNumbers_whenAddedToTree_ShouldBe_AbleFindNode()" classname="com.bridgelabz.BinarySearchTreeTest" time="0.004"/>
+  <testcase name="Given3NumbersWhenAddedToBinaryTreeShouldReturnSizeThree()" classname="com.bridgelabz.BinarySearchTreeTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
